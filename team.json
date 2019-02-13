@@ -1,0 +1,48 @@
+{
+    "name": "InfoImage PD",
+    "members": [
+        {
+            "name": "Nazmul Islam",
+            "designation": "Senior Software Engineer",
+            "age": 31,
+            "photo": "photos/naim.jpg",
+            "linkedInUrl": ""
+        },
+        {
+            "name": "Imran Alam",
+            "designation": "SQA Engineer",
+            "age": 37,
+            "photo": "photos/imran.jpg",
+            "linkedInUrl": ""
+        },
+        {
+            "name": "M.H. Shuvo",
+            "designation": "Software Engineer",
+            "age": 27,
+            "photo": "photos/mehedi.jpg",
+            "linkedInUrl": ""
+        },
+        {
+            "name": "Ramjan Ali Ashik",
+            "designation": "Assistant Software Engineer",
+            "age": 27,
+            "photo": "photos/ashik.jpg",
+            "linkedInUrl": ""
+        },
+        {
+            "name": "Afikur Rahman",
+            "designation": "Assistant Software Engineer",
+            "age": 26,
+            "photo": "photos/afikur.jpg",
+            "linkedInUrl": "https://www.linkedin.com/in/afikur/"
+            
+        },
+        {
+            "name": "Thasina Tabassum",
+            "designation": "Junior Software Engineer",
+            "age": 16,
+            "photo": "photos/thasina.jpg"
+            
+        }
+    ]
+}

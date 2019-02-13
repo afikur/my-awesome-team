@@ -1,0 +1,19 @@
+{
+  "name": "awesome-team",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server ."
+  },
+  "keywords": [],
+  "author": "Afikur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
